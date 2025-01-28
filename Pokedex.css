@@ -1,0 +1,16 @@
+.Pokecard {
+    border: 1px solid #2798c5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .Pokedex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .Pokecard img {
+    width: 150px;
+    height: 150px;
+  }
+  
